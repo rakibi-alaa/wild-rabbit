@@ -1,0 +1,25 @@
+{
+  "about_us" : "Nous sommes une ferme gîte avec un parc d'activités pour que vous passiez un séjour rempli de rires et de souvenirs dans un cadre naturel, calme et relaxant.\nNous disposons de plus d'un hectare de terres répartis en jardins, vergers, espaces de jeux, logis et bâtiments agricoles où nous gardons moutons, vaches, lapins, volailles et autres animaux attachants.",
+  "equipments" : {
+    "1" : "Chambres et dortoirs avec salle de bain",
+    "2" : "Une salle d'activités",
+    "3" : "Une grande salle de fête",
+    "4" : "Deux grandes tentes caidales",
+    "5" : "Une grande terrasse"
+  },
+  "activities" : "Au cours de leur séjour, les enfants se verront proposer des activités variées, pédagogiques et ludiques. Il y en a pour toutes les passions : apprendre à traire une vache, faire la cueillette des fruits, ou tout simplement de prélasser au bord de la piscine.\nA toute heure et en toute saison, il se passe toujours quelque chose dans notre ferme !",
+  "our_equipments" : "Équipements",
+  "our_accommodations" : "Hébergements",
+  "common_spaces": "Espaces communs",
+  "salles": "Nos salles",
+  "terrasses" : "Nos Terrasses",
+  "our_activities" : "Activités",
+  "naturel": "Espace naturel",
+  "parascolaire": "Espace parascolaire",
+  "jeux": "Nos jeux",
+  "contact": "Contactez-nous",
+  "address" : "Adresse",
+  "phone": "Téléphones",
+  "about" : "Qui sommes-nous",
+  "sorties_scolaire": "Sorties scolaires"
+}

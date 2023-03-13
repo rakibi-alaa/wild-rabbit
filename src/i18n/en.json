@@ -1,0 +1,25 @@
+{
+  "about_us" : "We are a bed and breakfast farm with an activity park for you to spend a stay filled with laughter and memories in a natural, calm and relaxing setting.\nWe have more than one hectare of land divided into gardens, orchards, play areas, lodgings and agricultural buildings where we keep sheep, cows, rabbits, poultry and other endearing animals.",
+  "equipments" : {
+    "1" : "Rooms and dormitories with bathroom",
+    "2" : "An activity room",
+    "3" : "A large party room",
+    "4" : "Two large caidal tents",
+    "5" : "A large terrace"
+  },
+  "activities" : "During their stay, children will be offered varied, educational and fun activities. There's something for everyone: learning to milk a cow, picking fruit, or simply lounging by the pool.\nAt any time and in any season, there is always something happening on our farm!",
+  "our_equipments" : "Equipment",
+  "our_accommodations" : "Accommodations",
+  "common_spaces": "Common areas",
+  "salles": "Our Rooms",
+  "terrasses" : "Our Terraces",
+  "our_activities" : "Qctivities",
+  "naturel": "Natural space",
+  "parascolaire": "Extracurricular space",
+  "jeux": "Our games",
+  "contact": "Contact us",
+  "address" : "Address",
+  "phone": "Phones",
+  "about" : "About us",
+  "sorties_scolaire": "School trips"
+}
